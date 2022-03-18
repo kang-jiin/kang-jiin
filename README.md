@@ -4,7 +4,8 @@
 
 <hr />
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kang-jiin&langs_count=4&layout=compact&theme=dark)]
+![Jiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kang-jiin&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kang-jiin&langs_count=4&layout=compact&theme=buefy)
 
 <!--
 **kang-jiin/kang-jiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
